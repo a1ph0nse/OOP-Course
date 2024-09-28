@@ -1,0 +1,5 @@
+.vscode/
+Sudoku_cpp/build
+Sudoku_py/__pycache__
+Sudoku_py/.pytest_cache
+build/
